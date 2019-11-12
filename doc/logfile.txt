@@ -1,0 +1,45 @@
+Class documentation
+<---- javadoc command: ---->
+D:\Applications\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+D:\Applications\BlueJ\lib\bluejcore.jar;D:\Applications\BlueJ\lib\junit-4.11.jar;D:\Applications\BlueJ\lib\hamcrest-core-1.3.jar;D:\Applications\BlueJ\lib\lang-stride.jar;D:\Applications\BlueJ\lib\javafx\lib\javafx.base.jar;D:\Applications\BlueJ\lib\javafx\lib\javafx.controls.jar;D:\Applications\BlueJ\lib\javafx\lib\javafx.fxml.jar;D:\Applications\BlueJ\lib\javafx\lib\javafx.graphics.jar;D:\Applications\BlueJ\lib\javafx\lib\javafx.media.jar;D:\Applications\BlueJ\lib\javafx\lib\javafx.properties.jar;D:\Applications\BlueJ\lib\javafx\lib\javafx.swing.jar;D:\Applications\BlueJ\lib\javafx\lib\javafx.web.jar;C:\Users\Jabbe\Downloads\Calculator
+-d
+C:\Users\Jabbe\Downloads\Calculator\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\Jabbe\Downloads\Calculator\Matrix.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Jabbe\Downloads\Calculator\Matrix.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.2
+Building tree for all the packages and classes...
+Generating C:\Users\Jabbe\Downloads\Calculator\doc\Matrix.html...
+C:\Users\Jabbe\Downloads\Calculator\Matrix.java:33: warning - @param argument "Matrix" is not a parameter name.
+C:\Users\Jabbe\Downloads\Calculator\Matrix.java:47: warning - @param argument "Matrix" is not a parameter name.
+C:\Users\Jabbe\Downloads\Calculator\Matrix.java:74: warning - @param argument "RationalMultiply" is not a parameter name.
+C:\Users\Jabbe\Downloads\Calculator\Matrix.java:88: warning - @param argument "Matrix" is not a parameter name.
+C:\Users\Jabbe\Downloads\Calculator\Matrix.java:134: warning - @param argument "Matrix" is not a parameter name.
+C:\Users\Jabbe\Downloads\Calculator\Matrix.java:148: warning - @param argument "Object" is not a parameter name.
+C:\Users\Jabbe\Downloads\Calculator\Matrix.java:161: warning - @param argument "int" is not a parameter name.
+C:\Users\Jabbe\Downloads\Calculator\Matrix.java:162: warning - @param argument "int" is not a parameter name.
+Generating C:\Users\Jabbe\Downloads\Calculator\doc\package-summary.html...
+Generating C:\Users\Jabbe\Downloads\Calculator\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\Jabbe\Downloads\Calculator\doc\allclasses.html...
+Generating C:\Users\Jabbe\Downloads\Calculator\doc\allclasses.html...
+Generating C:\Users\Jabbe\Downloads\Calculator\doc\index.html...
+8 warnings
